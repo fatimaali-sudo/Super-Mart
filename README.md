@@ -1,5 +1,8 @@
 # Super-Mart
 Python based Super Mart system that uses Pyqt5(framework)
+<----------------------Requirements-------------------->
+Following libraries must be installed in order to run the program
+pyqt5, pyqt5-tools, cryptogragpy, pymysql
 <----------------------INSTRUCTIONS-------------------->
 Before running the befor make sure the following things
 ->You have added all those environment variables properply.
@@ -11,6 +14,8 @@ Before running the befor make sure the following things
 
 
 For converting into executeable run the setup.py file from the command prompt.You can edit configrations from the setup.py file according to you own desires.
-
-
-<--------------------End-------------------------------->
+<--------------------How to start-------------------------------->
+-> After setting everything thing up go to folder "Files" open "databse.txt"
+->Copy all the the database content and run it on workbench.
+->Now you can start the program by running start.py.
+->For any questions and help. Email :talha.amir9225@gmail.com
