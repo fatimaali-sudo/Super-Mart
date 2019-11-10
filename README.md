@@ -1,6 +1,7 @@
 # Super-Mart
 Python based Super Mart system that uses Pyqt5(framework)
 <----------------------Requirements-------------------->
+Python version = 3.7.4 (64-bit)
 Following libraries must be installed in order to run the program
 pyqt5, pyqt5-tools, cryptogragpy, pymysql
 <----------------------INSTRUCTIONS-------------------->
@@ -18,4 +19,8 @@ For converting into executeable run the setup.py file from the command prompt.Yo
 -> After setting everything thing up go to folder "Files" open "databse.txt"
 ->Copy all the the database content and run it on workbench.
 ->Now you can start the program by running start.py.
-->For any questions and help. Email :talha.amir9225@gmail.com
+->For any questions and help. Email :tamir@students.uit.edu.com
+
+<---------------------Executable File---------------------->
+For converting the project into executable file execute the the "setup.py" file and 
+copy all the folders in the executable folder and now you can run project.
